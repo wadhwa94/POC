@@ -1,0 +1,6 @@
+c:\users\jawadh.fareast\documents\visual studio 2015\Projects\AsyncAwaitPOC\AsyncAwaitPOC\bin\Debug\AsyncAwaitPOC.exe.config
+c:\users\jawadh.fareast\documents\visual studio 2015\Projects\AsyncAwaitPOC\AsyncAwaitPOC\obj\Debug\AsyncAwaitPOC.csprojResolveAssemblyReference.cache
+C:\Users\jawadh.FAREAST\Documents\Visual Studio 2015\Projects\AsyncAwaitPOC\AsyncAwaitPOC\bin\Debug\AsyncAwaitPOC.exe
+C:\Users\jawadh.FAREAST\Documents\Visual Studio 2015\Projects\AsyncAwaitPOC\AsyncAwaitPOC\bin\Debug\AsyncAwaitPOC.pdb
+C:\Users\jawadh.FAREAST\Documents\Visual Studio 2015\Projects\AsyncAwaitPOC\AsyncAwaitPOC\obj\Debug\AsyncAwaitPOC.exe
+C:\Users\jawadh.FAREAST\Documents\Visual Studio 2015\Projects\AsyncAwaitPOC\AsyncAwaitPOC\obj\Debug\AsyncAwaitPOC.pdb
